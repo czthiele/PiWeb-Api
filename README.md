@@ -1,7 +1,9 @@
 PiWeb-Api
 =========
 
-![ZEISS PiWeb](https://github.com/ZEISS-PiWeb/PiWeb-Api/blob/master/Logo.png)
+<p align="center">
+  <img src="https://github.com/ZEISS-PiWeb/PiWeb-Api/blob/master/Logo.png" />
+</p>
 
 [![Build status](https://ci.appveyor.com/api/projects/status/q48run5x0ge40h9p/branch/master?svg=true&passingText=master%20-%20OK&pendingText=master%20-%20PENDING&failingText=master%20-%20FAILED)](https://ci.appveyor.com/project/czjlorenz/piweb-api/branch/master)
 [![Build status](https://ci.appveyor.com/api/projects/status/q48run5x0ge40h9p/branch/develop?svg=true&passingText=develop%20-%20OK&pendingText=develop%20-%20PENDING&failingText=develop%20-%20FAILED)](https://ci.appveyor.com/project/czjlorenz/piweb-api/branch/develop)
@@ -20,7 +22,7 @@ http://your-piweb-server/dataServiceRest/configuration
 
 ```json
 {
-    "partAttributes": 
+    "partAttributes":
     [
         {
             "key": 1001,
@@ -101,7 +103,7 @@ http://your-piweb-server/dataServiceRest/measurements?limitResult=10
         "uuid": "64a47361-9b5b-43e3-9774-45e2862e65ab",
         "partUuid": "4ce9ba9a-794f-4e57-beb2-c84612065179",
         "lastModified": "2015-03-26T08:51:29.343Z",
-        "attributes": 
+        "attributes":
         {
             "4": "2014-12-05T14:25:55Z"
         }
@@ -110,7 +112,7 @@ http://your-piweb-server/dataServiceRest/measurements?limitResult=10
         "uuid": "c0b784f1-d85b-4c46-8f39-7824567004aa",
         "partUuid": "4ce9ba9a-794f-4e57-beb2-c84612065179",
         "lastModified": "2015-03-26T08:48:35.14Z",
-        "attributes": 
+        "attributes":
         {
             "4": "2014-12-05T13:25:55Z"
         }
